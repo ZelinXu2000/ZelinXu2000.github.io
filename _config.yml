@@ -4,8 +4,8 @@
 
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Zelin
-middle_name: 
-last_name: Xu
+middle_name: Xu
+last_name: 徐则林
 email: zelin.xu@ufl.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Homepage of Zelin Xu
@@ -247,8 +247,8 @@ display_categories: ['blockquotes'] # these categories will be displayed on the 
 
 scholar:
 
-  last_name: [Zelin]
-  first_name: [Xu]
+  last_name: [Xu]
+  first_name: [Zelin]
 
   style: apa
   locale: en
