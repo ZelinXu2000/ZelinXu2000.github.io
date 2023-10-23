@@ -1,6 +1,6 @@
 ---
 layout: about
-title: About
+title: Home
 permalink: /
 subtitle: <a href='https://www.cise.ufl.edu/'>Department of CISE, University of Florida</a>
 
