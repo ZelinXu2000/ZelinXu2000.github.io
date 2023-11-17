@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper won the SIGSPATIAL 2023 Best Paper Award!!!
+Our paper won the SIGSPATIAL 2023 <span style="color:red">**Best Paper Award**</span>!!!
