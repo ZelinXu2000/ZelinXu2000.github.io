@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-My 1st-author paper got accepted by Special Track on AI for Social Impact of AAAI 24 (acceptance rate 24.2).
+My 1st-author paper got accepted by Special Track on AI for Social Impact of AAAI 24.
