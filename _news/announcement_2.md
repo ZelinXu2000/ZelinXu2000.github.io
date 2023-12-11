@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-My 1st author paper got accepted to SIGSPATIAL 2023. (Acceptance Rate 20.1%) 
+My 1st-author paper got accepted by SIGSPATIAL 2023. 

@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I have a co-authored paper accepted at NeurIPS 2023. See you in New Orleans!
+I have a co-authored paper accepted by NeurIPS 2023. See you in New Orleans!

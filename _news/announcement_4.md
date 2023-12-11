@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One paper is accepted by NeurIPS AI for Science Workshop. 
+One paper got accepted by NeurIPS AI for Science Workshop. 
