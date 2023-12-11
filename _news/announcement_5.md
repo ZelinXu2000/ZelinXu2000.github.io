@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-My 1st-author paper won the SIGSPATIAL 2023 ***Best Paper Award***!!!
+My 1st-author paper won the SIGSPATIAL 2023 ***Best Paper Award*** !!!
