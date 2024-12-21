@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One paper accepted by ACM Transactions on Spatial Algorithms and Systems.
+One paper accepted by ACM TSAS.
