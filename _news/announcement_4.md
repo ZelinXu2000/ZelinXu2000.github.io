@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One paper got accepted by NeurIPS AI for Science Workshop. 
+One paper accepted at NeurIPS 2023 AI for Science Workshop. 

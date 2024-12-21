@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-My 1st-author paper got accepted by SIGSPATIAL 2023. 
+My first paper was accepted at SIGSPATIAL 2023. 

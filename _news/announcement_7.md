@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One paper was accepted by SDM 2024 Blue Sky Vision Track.
+One paper accepted at SDM 2024 Blue Sky Vision Track.

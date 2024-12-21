@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper received the ***Best Paper Award Runner-Up*** of the Blue Sky Track at SDM 2024!
+Our paper received the Blue Sky Track ***Best Paper Award Runner-Up*** at SDM 2024!
