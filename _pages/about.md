@@ -19,7 +19,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a 4th year Ph.D. student in Computer Science at the University of Florida, advised by Dr. [Zhe Jiang](https://www.jiangteam.org/). Before this, I received my B.E. degree in Artificial Intelligence from Shandong University in 2022, under the supervision of Dr. [Meng Chen](https://faculty.sdu.edu.cn/chenmeng2). 
+I am a ~~1st~~ ~~2nd~~ ~~3rd~~ 4th year Ph.D. student in Computer Science at the University of Florida, advised by Dr. [Zhe Jiang](https://www.jiangteam.org/). Before this, I received my B.E. degree in Artificial Intelligence from Shandong University in 2022, under the supervision of Dr. [Meng Chen](https://faculty.sdu.edu.cn/chenmeng2). 
 
 My research interests lies in large-scale and efficient deep learning, deep generative models, multimodal foundation models, and AI for science. My work earned the Best Paper Award at ACM SIGSPATIAL 2023 and the Blue Sky Best Paper Award Runner-Up at SDM 2024.
 
