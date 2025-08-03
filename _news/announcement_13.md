@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Started my Applied Scientist internship at Amazon, will be working on generative recommendation.
+Started my Applied Scientist internship at Amazon, working on generative recommendation.
