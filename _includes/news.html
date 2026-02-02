@@ -1,4 +1,4 @@
-          <div class="news">
+          <div class="news" style="margin-bottom: 1rem;">
             {% if site.news != blank -%}
             {%- assign news_size = site.news | size -%}
             <div class="table-responsive" {% if site.announcements.scrollable and news_size > 5 %}style="max-height: 40vh; overflow-y: auto"{% endif %}>

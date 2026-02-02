@@ -9,8 +9,8 @@ nav_order: 5
 ***
 ### Conference Reviewer / Program Committee
 - International Conference on Neural Information Processing Systems (NeurIPS), 2024-2025
-- International Conference on Machine Learning (ICML), 2024-2025
-- International Conference on Learning Representations (ICLR), 2025
+- International Conference on Machine Learning (ICML), 2024-2026
+- International Conference on Learning Representations (ICLR), 2025-2026
 - ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD), 2025-2026
 - AAAI Conference on Artificial Intelligence (AAAI), 2025-2026
 - International Joint Conference on Artificial Intelligence (IJCAI), 2025
@@ -25,4 +25,7 @@ nav_order: 5
 
 ### Book Manuscript Reviewer
 - Cambridge University Press
+
+### Teaching
+- **Teaching Assistant**, CAP4770: Introduction to Data Science, University of Florida, Spring 2023
 
