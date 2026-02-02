@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One paper accepted at SIGSPATIAL 2025.
+Two papers accepted at SIGSPATIAL 2025.
